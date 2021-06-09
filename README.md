@@ -15,4 +15,5 @@ But what awaits him/her at the top...
 
 # Media
 
-![Uploading mpc-hc64_oDxfStfNrD.png…]()
+![mpc-hc64_oDxfStfNrD](https://user-images.githubusercontent.com/45577275/121318692-c57c1a00-c90b-11eb-82ce-f898e822d3c8.png)
+
