@@ -12,3 +12,7 @@ Can we as humans ever reach the top of the pyramid?
 In The Great Pyramid of Human Progression, the player must view and worship 
 all of humanity's technology in order to become enlightened and move up one level in the pyramid. 
 But what awaits him/her at the top... 
+
+# Media
+
+![Uploading mpc-hc64_oDxfStfNrD.png…]()
